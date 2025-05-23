@@ -9,11 +9,6 @@
 - Postman para pruebas de API REST
 - SQL para verificación de datos
 
-📂 Repositorios destacados:
-- Casos de prueba en Excel
-- Reportes de bugs simulados
-- Pruebas de API con Postman
-
 🎯 Busco seguir creciendo en el área de QA y contribuir a proyectos que prioricen la calidad.
 
 📫 Podés contactarme o ver más en [LinkedIn] https://www.linkedin.com/in/camila-fariña-96024223b/

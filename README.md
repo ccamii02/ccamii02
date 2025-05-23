@@ -1,4 +1,23 @@
-## Hi there 👋
+ ¡Hola! Soy Camila 👋
+
+🧪 Tester QA Manual en formación  
+💻 Actualmente capacitándome en Testing QA Manual y SQL  
+🔍 Interesada en garantizar la calidad del software a través de pruebas funcionales, documentación clara y mejora continua.
+
+🛠️ Herramientas que estoy utilizando:
+- Jira para gestión de incidencias
+- Postman para pruebas de API REST
+- SQL para verificación de datos
+
+📂 Repositorios destacados:
+- Casos de prueba en Excel
+- Reportes de bugs simulados
+- Pruebas de API con Postman
+
+🎯 Busco seguir creciendo en el área de QA y contribuir a proyectos que prioricen la calidad.
+
+📫 Podés contactarme o ver más en [LinkedIn] https://www.linkedin.com/in/camila-fariña-96024223b/
+
 
 <!--
 **ccamii02/ccamii02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
